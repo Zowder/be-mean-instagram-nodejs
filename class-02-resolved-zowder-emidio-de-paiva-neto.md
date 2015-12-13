@@ -16,7 +16,7 @@
 *  **2XX - Sucesso**
 ![enter image description here](https://http.cat/200)
 
-* **3XX - Redirecionamento**
+*  **3XX - Redirecionamento**
 ![enter image description here](https://http.cat/307)
 
 * **4XX- Erro de cliente**
