@@ -31,8 +31,8 @@ Surgiu com a necessidade de padronização de retorno do servidor, facilitando o
 ![](https://http.cat/502)
 
 ## Explique o que é cada parâmetro da função recebida no `createServer`.
->**Request:** Parâmetro da requisição feita pelo usuário.
->**Response:** Parâmetro que retorna as informações para o usuário.
+**Request:** Parâmetro da requisição feita pelo usuário.
+**Response:** Parâmetro que retorna as informações para o usuário.
 
 ## O que é e para que serve a Querystring?
 
