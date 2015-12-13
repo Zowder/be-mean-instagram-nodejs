@@ -10,24 +10,24 @@
 
 > Surgiu com a necessidade de padronização de retorno do servidor, facilitando o entendimento de cada um.
 
--  **1XX - Informacional**
+*  **1XX - Informacional**
 ![enter image description here](https://http.cat/100)
 
-- **2XX - Sucesso**
+*  **2XX - Sucesso**
 ![enter image description here](https://http.cat/200)
 
-- **3XX - Redirecionamento**
+* **3XX - Redirecionamento**
 ![enter image description here](https://http.cat/304)
 
-- **4XX- Erro de cliente**
+* **4XX- Erro de cliente**
 ![enter image description here](https://http.cat/404)
 
-- **5XX - Erro de servidor**
+*  **5XX - Erro de servidor**
 ![enter image description here](https://http.cat/502)
 
 ## Explique o que é cada parâmetro da função recebida no `createServer`.
 >**Request:** Parâmetro da requisição feita pelo usuário.
-**Response:** Parâmetro que retorna as informações para o usuário.
+>**Response:** Parâmetro que retorna as informações para o usuário.
 
 ## O que é e para que serve a Querystring?
 
