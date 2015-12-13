@@ -8,22 +8,27 @@
 
 ## Para que foram inventados os Status Codes? Dê exemplo de 1 código por grupo e a imagem do [Cat Status Code](https://http.cat/).
 
-> Surgiu com a necessidade de padronização de retorno do servidor, facilitando o entendimento de cada um.
+Surgiu com a necessidade de padronização de retorno do servidor, facilitando o entendimento de cada um.
 
 *  **1XX - Informacional**
-![enter image description here](https://http.cat/100)
+
+![](https://http.cat/100)
 
 *  **2XX - Sucesso**
-![enter image description here](https://http.cat/200)
+
+![](https://http.cat/200)
 
 *  **3XX - Redirecionamento**
-![enter image description here](https://http.cat/307)
+
+![](https://http.cat/307)
 
 * **4XX- Erro de cliente**
-![enter image description here](https://http.cat/404)
+
+![](https://http.cat/404)
 
 *  **5XX - Erro de servidor**
-![enter image description here](https://http.cat/502)
+
+![](https://http.cat/502)
 
 ## Explique o que é cada parâmetro da função recebida no `createServer`.
 >**Request:** Parâmetro da requisição feita pelo usuário.
