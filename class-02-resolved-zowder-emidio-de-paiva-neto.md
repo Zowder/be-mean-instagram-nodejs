@@ -17,7 +17,7 @@
 ![enter image description here](https://http.cat/200)
 
 * **3XX - Redirecionamento**
-![enter image description here](https://http.cat/304)
+![enter image description here](https://http.cat/307)
 
 * **4XX- Erro de cliente**
 ![enter image description here](https://http.cat/404)
